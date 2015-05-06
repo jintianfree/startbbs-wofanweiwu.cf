@@ -1,3 +1,8 @@
+自己修改后的一个备份
+先按照 StartBBS-Openshift  部署到openshift上
+然后将所有文件拷贝到openshift  app_root/repo/php 目录下
+重启   数据库能不能恢复 还未测试 
+
 ﻿+=======================+
 StartBBS开源社区系统（又名：起点bbs）
 +=======================+
